@@ -32,6 +32,5 @@ const calculateMaturity =
         result.classList.add("hidden");
         error.classList.remove("hidden");
         error.style.textAlign = "center";
-        error.style.color = "red";
       }
     });
